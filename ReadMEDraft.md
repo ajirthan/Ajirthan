@@ -13,17 +13,17 @@
 <p></p><p></p>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="dilshankarunarathne" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajirthan&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="ajirthan_b" />
 </div>
 <p></p><p></p>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dilshankarunarathne&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="dilshankarunarathne" />
+<img src="https://github-profile-trophy.vercel.app/?username=ajirthan&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="ajirthan_b" />
 </div>
 
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **React JS**
 
-- 📝 I regularly write articles on [http://dilshan.cf/](http://dilshan.cf/)
+- 📝 I regularly write articles on [https://medium.com/@ajirthan]
 
 - 💬 Ask me about **Python, Java, C/C++**
 
