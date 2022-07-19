@@ -110,7 +110,7 @@
 
 
 <h3 align="left">Support me: </h3>
-<p><a href="https://www.buymeacoffee.com/wmdilshan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wmdilshan" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/ajirthan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="wmdilshan" /></a></p><br><br>
 
 <!-- grid snake -->
 <div align="center">
@@ -123,19 +123,19 @@
 
 <!-- top languages -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajirthan&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 <p></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="dilshankarunarathne" />    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajirthan&show_icons=true&theme=dracula&locale=en&layout=compact&hide_border=true" alt="ajirthan_" />    
 <p></p>
 -->
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dilshankarunarathne&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="dilshankarunarathne" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajirthan&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="ajirthan_" />
 <p></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshankarunarathne&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="dilshankarunarathne" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajirthan&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ajirthan_" /></p>
   </div>
 <p></p>
 
