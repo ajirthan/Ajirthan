@@ -144,5 +144,5 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ff79c6&aColor=%238be9fd&bgColor=%23282a36&textColor=%238be9fd" alt="Jokes Card" />
 </div>
 <div>
-## <i>Happy Coding!</i> <img align="center"  alt="GIF" src="https://raw.githubusercontent.com/Kobigan1223/Kobigan1223/main/assets/images/sonic-dance.gif"/>
+<i>Happy Coding!</i> <img align="center"  alt="GIF" src="https://raw.githubusercontent.com/Kobigan1223/Kobigan1223/main/assets/images/sonic-dance.gif"/>
 </div>
