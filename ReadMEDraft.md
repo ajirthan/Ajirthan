@@ -1,6 +1,6 @@
 <h1 align="center">Ajirthan Balasingham</h1>
 
-<center>![image](https://user-images.githubusercontent.com/40312069/179791124-4f959bb1-6764-4608-b5e3-80fc6133cc2d.png)</center>
+<center> ![image](https://user-images.githubusercontent.com/40312069/179791124-4f959bb1-6764-4608-b5e3-80fc6133cc2d.png) </center>
 
 
 <h3 align="center">
