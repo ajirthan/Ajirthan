@@ -1,6 +1,7 @@
 <h1 align="center">Ajirthan Balasingham</h1>
 
-<center><img align="center" src="https://i.ibb.co/CV5bR36/avatar.jpg" alt="ajirthan_b" /></center>
+<center>![image](https://user-images.githubusercontent.com/40312069/179791124-4f959bb1-6764-4608-b5e3-80fc6133cc2d.png)</center>
+
 
 <h3 align="center">
    Hello! I’m Ajirthan Balasingham. Currently Learning Full Stack Web Development at Uki Coding School, Jaffna, specializing in MERN Stack. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, JSON, XML, AJAX, Git, JavaScript, JQuery and React technologies. I have Strong background in management and leadership. 
