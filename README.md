@@ -1,5 +1,7 @@
-<link href='https://fonts.googleapis.com/css?family=Meriweather' rel='stylesheet'>
-
+<html>
+      <head>
+         <link href='https://fonts.googleapis.com/css?family=Meriweather' rel='stylesheet'>
+   </head>
 <h1 align="center">Ajirthan Balasingham</h1>
 
 <!--
