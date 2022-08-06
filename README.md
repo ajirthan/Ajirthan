@@ -8,6 +8,8 @@
 <img src="https://user-images.githubusercontent.com/40312069/179791124-4f959bb1-6764-4608-b5e3-80fc6133cc2d.png" alt="ajirthan_b" height="300px" width="300px" style="display: block; margin-left: auto; margin-right: auto;">
 -->
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Code&duration=4000&color=AB00FF&background=CFCFCF00&center=true&lines=Hello+World%2C+I'm+Ajirthan.;IT+Enthusiast;MERN+Stack+Developer;UI%2FUX+Designer;Student" alt="Typing SVG" />
+      
 <h3 align="center">
    Hello! I’m Ajirthan Balasingham. Currently Learning Full Stack Web Development at Uki Coding School, Jaffna, specializing in MERN Stack. Experienced with all stages of the development cycle for dynamic web projects. Having an in-depth knowledge including advanced HTML5, CSS, CSS3, SASS, JSON, XML, AJAX, Git, JavaScript, JQuery and React technologies. I have Strong background in management and leadership. 
 </h3>
