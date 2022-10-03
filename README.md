@@ -29,7 +29,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **React JS** & working in <a href="https://ajirthan.github.io/"> **my portfolio** </a>
 
 - 📝 I regularly write articles on [https://medium.com/@ajirthan]
 
